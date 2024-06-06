@@ -1,0 +1,106 @@
+[
+    {
+        "drug_name": "A/B Otic",
+        "reviews": {
+            "note": 10.0,
+            "comments": 2,
+            "href": "/comments/antipyrine-benzocaine-otic/a-b-otic-for-otitis-media.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir",
+        "reviews": {
+            "note": 1.0,
+            "comments": 1,
+            "href": "/comments/abacavir/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir and lamivudine",
+        "reviews": {
+            "note": 9.5,
+            "comments": 7,
+            "href": "/comments/abacavir-lamivudine/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir and Lamivudine Tablets",
+        "reviews": {
+            "note": 9.5,
+            "comments": 7,
+            "href": "/comments/abacavir-lamivudine/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir Oral Solution",
+        "reviews": {
+            "note": 1.0,
+            "comments": 1,
+            "href": "/comments/abacavir/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir Sulfate Tablets",
+        "reviews": {
+            "note": 1.0,
+            "comments": 1,
+            "href": "/comments/abacavir/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir, dolutegravir, and lamivudine",
+        "reviews": {
+            "note": 8.3,
+            "comments": 127,
+            "href": "/comments/abacavir-dolutegravir-lamivudine/"
+        }
+    },
+    {
+        "drug_name": "Abacavir, Lamivudine and Zidovudine Tablets",
+        "reviews": {
+            "note": 9.0,
+            "comments": 1,
+            "href": "/comments/abacavir-lamivudine-zidovudine/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir, lamivudine, and zidovudine",
+        "reviews": {
+            "note": 9.0,
+            "comments": 1,
+            "href": "/comments/abacavir-lamivudine-zidovudine/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abaloparatide",
+        "reviews": {
+            "note": 4.5,
+            "comments": 103,
+            "href": "/comments/abaloparatide/"
+        }
+    },
+    {
+        "drug_name": "Abatacept",
+        "reviews": {
+            "note": 6.1,
+            "comments": 73,
+            "href": "/comments/abatacept/"
+        }
+    },
+    {
+        "drug_name": "Abemaciclib",
+        "reviews": {
+            "note": 8.1,
+            "comments": 22,
+            "href": "/comments/abemaciclib/"
+        }
+    },
+    {
+        "drug_name": "Abilify",
+        "reviews": {
+            "note": 6.0,
+            "comments": 1170,
+            "href": "/comments/aripiprazole/abilify.html"
+        }
+    }
+]

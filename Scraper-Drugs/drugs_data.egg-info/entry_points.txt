@@ -1,0 +1,3 @@
+[console_scripts]
+scrape = scraping.main:default
+scrape_api = scraping.api:main

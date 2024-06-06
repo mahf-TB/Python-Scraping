@@ -1,0 +1,42 @@
+[
+    {
+        "drug_name": "A/B Otic",
+        "reviews": {
+            "note": 10.0,
+            "comments": 2,
+            "href": "/comments/antipyrine-benzocaine-otic/a-b-otic-for-otitis-media.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir",
+        "reviews": {
+            "note": 1.0,
+            "comments": 1,
+            "href": "/comments/abacavir/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir and lamivudine",
+        "reviews": {
+            "note": 9.5,
+            "comments": 7,
+            "href": "/comments/abacavir-lamivudine/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir and Lamivudine Tablets",
+        "reviews": {
+            "note": 9.5,
+            "comments": 7,
+            "href": "/comments/abacavir-lamivudine/for-hiv-infection.html"
+        }
+    },
+    {
+        "drug_name": "Abacavir Oral Solution",
+        "reviews": {
+            "note": 1.0,
+            "comments": 1,
+            "href": "/comments/abacavir/for-hiv-infection.html"
+        }
+    }
+]

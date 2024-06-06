@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+Flask
+dash
+plotly
+scikit-learn 
+dash-bootstrap-components
+# mysql-connector-python
+# scrapy
+

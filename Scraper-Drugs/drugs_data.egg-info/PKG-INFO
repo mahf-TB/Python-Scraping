@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: drugs_data
+Version: 1.0.0
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: pandas
+Requires-Dist: Flask
+Requires-Dist: dash
+Requires-Dist: plotly
+Requires-Dist: scikit-learn
+Requires-Dist: dash-bootstrap-components
